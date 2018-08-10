@@ -1,0 +1,7 @@
+Title: Days to Publication
+Slug: days-to-publication
+Date: 2018-08-09 20:00
+Category: posts
+Tags: python 
+author: Allegra Latimer
+Summary: In this example, we'll use webscraping techniques to collect data on the average number of days to publication (from manuscript reception to online publication) from scientific journals. Once we have the data, we will use a simple linear regression model to try to predict the average number of days to publication from a few basic predictors.
