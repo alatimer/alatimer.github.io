@@ -36,6 +36,6 @@ DEFAULT_PAGINATION = 10
 
 MARKUP = ('md', 'ipynb')
 
-THEME = '/Users/allegralatimer/Pelican/pelican-themes/MinimalXY'
+THEME = './themes/MinimalXY'
 PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
