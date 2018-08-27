@@ -976,6 +976,7 @@ h6:hover .anchor-link {
 &lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h1 id="Days-to-Publication"&gt;Days to Publication&lt;a class="anchor-link" href="#Days-to-Publication"&gt;&amp;#182;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;In this example, we'll use webscraping techniques to collect data on the average number of days to publication (from manuscript reception to online publication) from scientific journals.  Once we have the data, we will use a simple linear regression model to try to predict the average number of days to publication from a few basic predictors.&lt;/p&gt;
+&lt;p&gt;All required scripts and databases can be found at &lt;a href="https://github.com/alatimer/Days2Publication"&gt;https://github.com/alatimer/Days2Publication&lt;/a&gt;.&lt;/p&gt;
 
 &lt;/div&gt;
 &lt;/div&gt;
