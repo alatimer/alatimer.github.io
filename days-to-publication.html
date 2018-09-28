@@ -29,6 +29,7 @@
     <!-- Feed -->
     <link rel="alternate" type="application/atom+xml" href="https://alatimer.github.io/feeds/all.atom.xml" title="Allegra's Data Science Blog Atom Feed" />
     <link rel="alternate" type="application/atom+xml" href="https://alatimer.github.io/feeds/posts.atom.xml" title="Allegra's Data Science Blog Categories Atom Feed" />
+    <link rel="alternate" type="application/rss+xml" href="http://alatimer.github.io.disqus.com/latest.rss" title="Allegra's Data Science Blog Comments RSS Feed">
 
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:regular,bold">
@@ -2356,6 +2357,29 @@ R2:  0.7817758298901024
           <br><br><br>
 
 
+          <div id="disqus_thread"></div>
+          <script>
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+             */
+            
+            var disqus_config = function () {
+              this.page.url = 'https://alatimer.github.io';  // Replace PAGE_URL with your page's canonical URL variable
+              this.page.identifier = 'days-to-publication'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            
+            (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+              var d = document, s = d.createElement('script');
+              
+              s.src = 'https://alatimer.github.io.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+              
+              s.setAttribute('data-timestamp', +new Date());
+              (d.head || d.body).appendChild(s);
+            })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+          <br><br><br>
 
         </footer>
       </div>
