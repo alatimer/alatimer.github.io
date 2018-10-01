@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Allegra Latimer'
-SITENAME = u"Allegra's Data Science Blog"
+SITENAME = u"Wonderment"
 SITEURL = 'https://alatimer.github.io'
 
 PATH = 'content'
@@ -18,6 +18,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+#Disqus
+#DISQUS_SITENAME = "alatimer.github.io"
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
