@@ -1,5 +1,5 @@
 Title: About Me
-Slug: about
+Slug: aboutme
 Date: 2018-09-28 20:00
 Category: posts
 Tags: bio 
