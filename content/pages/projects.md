@@ -5,12 +5,16 @@ Category: Projects
 Tags: projects 
 author: Allegra Latimer
 
-#Direct Methane to Methanol: The Selectivity-Conversion Limit and Design Strategies 
+##Direct Methane to Methanol: The Selectivity-Conversion Limit and Design Strategies 
 
-[manuscript] (https://pubs.acs.org/doi/10.1021/acscatal.8b00220) [github code] (https://github.com/alatimer/Methane2MeOH) [interactive figure] (https://plot.ly/~alatimer/7) Latimer, A. A.; Kakekhani, A.; Kulkarni, A. R.; Nørskov, J. K. Direct Methane to Methanol : The Selectivity − Conversion Limit and Design Strategies. 2018.
+\[[Manuscript](https://pubs.acs.org/doi/10.1021/acscatal.8b00220)\]
+\[[Github Code](https://github.com/alatimer/Methane2MeOH)\]
+\][Interactive Figure](https://plot.ly/~alatimer/7)\]
+Latimer, A. A., Kakekhani, A., Kulkarni, A. R., & Nørskov, J. K. Direct Methane to Methanol:  The Selectivity–Conversion Limit and Design Strategies. *ACS Catalysis*. **2018**,  8, 6894–6907.
 
-#Bridging the Pressure Gap
 
-#Scaling
+##A Theoretical Study of Methanol Oxidation on RuO2(110): Bridging the Pressure Gap
 
-#Universal Scaling
+##Mechanistic insights into heterogeneous methane activation
+
+##Understanding trends in C–H bond activation in heterogeneous catalysis
